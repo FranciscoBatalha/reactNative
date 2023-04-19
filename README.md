@@ -1,10 +1,10 @@
-## INSTALAR O EXPO ## 
+Instale o EXPO
 npm i -g expo-cli
 
-## CRIAR PROJETO 
+Crie o projeto
 npx create-expo-app NOMEDOPROJETO 
 
- ## EXECUTAR
+Execute o projeto
 npx expo start
 
 OU
